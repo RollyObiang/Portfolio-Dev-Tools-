@@ -15,56 +15,56 @@ J’aime organiser les projets (planning, chemin critique, gestion d’équipe).
 📂 Mes projets principaux
 🎒 1. Application Web : Bibliothèque Universitaire (Laravel)
 
-🔗 https://github.com/ton-projet-laravel-biblio
+🔗 https://github.com/laravel-biblio
 
 📄 Résumé : Gestion complète des livres, emprunts, retours, pénalités et étudiants, avec un tableau de bord administrateur.
 
 🌐 2. Guide des Emplois – Plateforme Jeunes & Talents (Vue.js)
 
-🔗 https://github.com/ton-projet-guide-emplois
+🔗 https://github.com/guide-emplois
 
 📄 Résumé : Plateforme aidant les jeunes à trouver un emploi selon leurs compétences. Design moderne, pages multiples, Vue Router.
 
 📱 3. FREELANCE_DEV – Application Flutter
 
-🔗 https://github.com/ton-projet-flutter-freelance
+🔗 https://github.com/flutter-freelance
 
 📄 Résumé : App mobile mettant en avant les freelances avec une interface épurée et professionnelle.
 
 🔑 4. Application Gestion de Comptes (PHP + HTML/CSS)
 
-🔗 https://github.com/ton-projet-gestion-comptes
+🔗 https://github.com/gestion-comptes
 
 📄 Résumé : Système moderne de connexion admin avec formulaires stylés, hash sécurisé et redirections automatiques.
 
 🎯 5. Gestionnaire de tâches en Java (CLI)
 
-🔗 https://github.com/ton-projet-java-todo
+🔗 https://github.com/java-todo
 
 📄 Résumé : Gestionnaire de tâches avancé avec stockage JSON, filtres, tests unitaires et future interface graphique en Swing.
 
 🛍️ 6. Mode Éthique & Upcyclée (WordPress)
 
-🔗 https://github.com/ton-projet-mode-ethique
+🔗 https://github.com/mode-ethique
 
 📄 Résumé : Boutique WordPress moderne dédiée à la mode durable : filtres avancés, lookbook, blog et fiches produits détaillées.
 
 🧾 7. Gestion des Employés (Flask)
 
-🔗 https://github.com/ton-projet-flask-employes
+🔗 https://github.com/flask-employes
 
 📄 Résumé : Application RH avec gestion des salaires, calcul d’impôts, PDF, et base de données robuste.
 
 🧪 8. Moteur Physique en C++
 
-🔗 https://github.com/ton-projet-physique-cpp
+🔗 https://github.com/physique-cpp
 
 📄 Résumé : Simulation physique basique (gravité, collisions, forces), bon projet algorithmique et bas niveau.
 
 🔥 Nouveaux projets ajoutés
 📰 9. App-Blog (HTML / CSS / JS / PHP)
 
-🔗 https://github.com/ton-projet-app-blog
+🔗 https://github.com/app-blog
 
 📄 Résumé :
 Application de blog avec différents articles (musique, tech, lifestyle, environnement…).
@@ -80,7 +80,7 @@ Design simple et moderne
 
 🌱 10. Conducteur Écologique (Application / Projet scolaire)
 
-🔗 https://github.com/ton-projet-conducteur-eco
+🔗 https://github.com/conducteur-eco
 
 📄 Résumé :
 Application sensibilisant les conducteurs à une conduite écologique.
@@ -96,7 +96,7 @@ Interface pédagogique
 
 ⚠️ 11. Gestion des Incidents (MS Project + XML)
 
-🔗 https://github.com/ton-projet-gestion-incidents
+🔗 https://github.com/gestion-incidents
 
 📄 Résumé :
 Planification complète d’un projet de gestion d’incidents avec :
@@ -111,7 +111,7 @@ Version XML importable directement dans Microsoft Project
 
 🧑‍🏫 12. Stage Connect — Suivi de stages étudiants (Projet)
 
-🔗 https://github.com/ton-projet-stage-connect
+🔗 https://github.com/stage-connect
 
 📄 Résumé :
 Application permettant aux étudiants de suivre leurs stages :
