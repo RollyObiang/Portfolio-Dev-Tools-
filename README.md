@@ -1,156 +1,93 @@
-👋 Bonjour, je suis Rolly Obiang Mba
-Développeur Frontend & Full-Stack Junior — Créateur d’applications modernes, intuitives et performantes.
-🚀 À propos de moi
+<!-- Bannière (tu pourras remplacer l'URL par ta vraie image Canva) -->
+<p align="center">
+  <img src="https://via.placeholder.com/1200x250.png?text=Rosly+Obiang+Mba+-+Développeur+Frontend+%26+Full-Stack" />
+</p>
 
-Étudiant en dernière année de BTS, passionné par le développement web/mobile.
+<h1 align="center">👋 Bienvenue sur mon Portfolio GitHub</h1>
+<p align="center">Développeur Frontend & Full-Stack Junior | Passionné par les interfaces modernes et les applications performantes</p>
 
-Spécialisé en Frontend (Vue.js), applications web full-stack, et interfaces modernes.
+---
 
-Objectif : devenir développeur frontend en entreprise.
+## 👨‍💻 À propos de moi
 
-J’ai travaillé sur de nombreux projets variés : Vue.js, Laravel, WordPress, Flutter, Flask, Java, C++, PHP.
+Développeur motivé et créatif, actuellement en dernière année de **BTS**, passionné par la création d'applications modernes, intuitives et centrées utilisateur.  
+Je me spécialise dans le **développement frontend (Vue.js)** et je réalise également des projets complets **full-stack** (Laravel, Flask, PHP, Flutter…).
 
-J’aime organiser les projets (planning, chemin critique, gestion d’équipe).
+🎯 **Objectif carrière :** devenir **développeur frontend en entreprise**, avec une forte sensibilité UI/UX.
 
-📂 Mes projets principaux
-🎒 1. Application Web : Bibliothèque Universitaire (Laravel)
+---
 
-🔗 https://github.com/laravel-biblio
+## 🛠️ Compétences Techniques
 
-📄 Résumé : Gestion complète des livres, emprunts, retours, pénalités et étudiants, avec un tableau de bord administrateur.
+### 🔹 Langages & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,cpp,dart" />
+</p>
 
-🌐 2. Guide des Emplois – Plateforme Jeunes & Talents (Vue.js)
+### 🔹 Frameworks & Outils
+<p>
+  <img src="https://skillicons.dev/icons?i=vue,laravel,flask,flutter,wordpress,bootstrap,tailwind" />
+</p>
 
-🔗 https://github.com/guide-emplois
+### 🔹 Bases de données
+- MySQL  
+- PostgreSQL  
+- SQLite  
+- JSON
 
-📄 Résumé : Plateforme aidant les jeunes à trouver un emploi selon leurs compétences. Design moderne, pages multiples, Vue Router.
+---
 
-📱 3. FREELANCE_DEV – Application Flutter
+# 📂 Mes Projets Principaux
 
-🔗 https://github.com/flutter-freelance
+## 📰 **App-Blog – Articles multicatégories**
+🔗 *https://rollyobiang.github.io/app-blog/index.html*  
+Blog avec catégories variées, images, descriptions et une interface épurée.
 
-📄 Résumé : App mobile mettant en avant les freelances avec une interface épurée et professionnelle.
 
-🔑 4. Application Gestion de Comptes (PHP + HTML/CSS)
+---
 
-🔗 https://github.com/gestion-comptes
+## 🌐 **Guide des Emplois — Plateforme Jeunes & Talents (Vue.js)**
+🔗 *https://rollyobiang.github.io/guide-emplois/index.html*  
+Application aidant les jeunes à trouver un emploi selon leurs compétences.  
+Design moderne, multiple pages, système de profils + Vue Router.
 
-📄 Résumé : Système moderne de connexion admin avec formulaires stylés, hash sécurisé et redirections automatiques.
+---
 
-🎯 5. Gestionnaire de tâches en Java (CLI)
+## ⚠️ **Gestion des Incidents — Planning MS Project**
+🔗 *https://rollyobiang.github.io/gestion-incidents/dashbo*  
+Planification complète (tâches, ressources, chemin critique) + fichier XML importable.
 
-🔗 https://github.com/java-todo
+---
 
-📄 Résumé : Gestionnaire de tâches avancé avec stockage JSON, filtres, tests unitaires et future interface graphique en Swing.
+## 🛍️ **Boutique Mode Éthique — WordPress**
+🔗 *https://github.com/...*  
+Site WordPress moderne : fiches produits détaillées, lookbook, blog, valeurs éthiques et système de filtres avancés.
 
-🛍️ 6. Mode Éthique & Upcyclée (WordPress)
+---
 
-🔗 https://github.com/mode-ethique
+## 🌱 **Conducteur Écologique — Application de sensibilisation**
+🔗 *https://rollyobiang.github.io/conducteur-ecologique/index.html*  
+App éducative sur la conduite écologique : conseils, émission CO₂, recommandations personnalisées.
 
-📄 Résumé : Boutique WordPress moderne dédiée à la mode durable : filtres avancés, lookbook, blog et fiches produits détaillées.
+---
 
-🧾 7. Gestion des Employés (Flask)
+# 📊 Statistiques GitHub
 
-🔗 https://github.com/flask-employes
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=calm" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=calm" height="160" />
+</p>
 
-📄 Résumé : Application RH avec gestion des salaires, calcul d’impôts, PDF, et base de données robuste.
+---
 
-🧪 8. Moteur Physique en C++
+# 📫 Me Contacter
 
-🔗 https://github.com/physique-cpp
+- **Email :** obiangmbarolsy4@gmail.com  
+- **LinkedIn :** https://www.linkedin.com/in/rosly-obiang-mba-a9a054378
+- **Portfolio Web :** https://tonportfolio.com  
 
-📄 Résumé : Simulation physique basique (gravité, collisions, forces), bon projet algorithmique et bas niveau.
+---
 
-🔥 Nouveaux projets ajoutés
-📰 9. App-Blog (HTML / CSS / JS / PHP)
-
-🔗 https://github.com/app-blog
-
-📄 Résumé :
-Application de blog avec différents articles (musique, tech, lifestyle, environnement…).
-Inclut :
-
-Pages catégories
-
-Page article détaillée
-
-Images + descriptions
-
-Design simple et moderne
-
-🌱 10. Conducteur Écologique (Application / Projet scolaire)
-
-🔗 https://github.com/conducteur-eco
-
-📄 Résumé :
-Application sensibilisant les conducteurs à une conduite écologique.
-Fonctionnalités :
-
-Conseils en temps réel
-
-Simulation des émissions
-
-Recommandations personnalisées
-
-Interface pédagogique
-
-⚠️ 11. Gestion des Incidents (MS Project + XML)
-
-🔗 https://github.com/gestion-incidents
-
-📄 Résumé :
-Planification complète d’un projet de gestion d’incidents avec :
-
-Tâches détaillées
-
-Chemin critique
-
-Ressources assignées
-
-Version XML importable directement dans Microsoft Project
-
-🧑‍🏫 12. Stage Connect — Suivi de stages étudiants (Projet)
-
-🔗 https://github.com/stage-connect
-
-📄 Résumé :
-Application permettant aux étudiants de suivre leurs stages :
-
-Dépôt des rapports
-
-Suivi formateur / étudiant
-
-Gestion des documents
-
-Interface claire pour encadrer le stage
-
-🧰 Stack & Compétences
-Langages
-
-JavaScript (Vue.js) • PHP • Python • Java • C++ • Dart
-
-Frameworks / Technologies
-
-Vue.js • Laravel • Flask • Flutter • WordPress • Swing • TailwindCSS
-
-Bases de données
-
-MySQL • SQLite • PostgreSQL • JSON
-
-Autres compétences
-
-UI/UX moderne
-
-Gestion de projets (PERT, MS Project, Gantt)
-
-Création de PDF
-
-Architecture MVC
-
-Travail en équipe (frontend/backend séparés)
-
-📫 Me contacter
-
-📧 Email : à ajouter
-🔗 LinkedIn : à ajouter
-🌍 Portfolio Web : à ajouter
+<p align="center">
+  ✨ *Merci d’avoir visité mon portfolio GitHub ! N’hésitez pas à explorer mes projets ou à me contacter.* ✨
+</p>
