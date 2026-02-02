@@ -46,7 +46,7 @@ Blog avec catégories variées, images, descriptions et une interface épurée.
 ---
 
 ## 🌐 **Guide-de-entrepreneur (Vue.js)**
-🔗 *https://www.guideentrepreneur.ga/apropos
+🔗 *https://www.guideentrepreneur.ga
 Une plateforme dédier à des jeunes entrepreneurs souhaitant se lancer dans diverses secteurs d'activités.
 
 ---
