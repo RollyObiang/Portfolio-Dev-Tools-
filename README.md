@@ -43,6 +43,11 @@ Je me spécialise dans le **développement frontend (Vue.js)** et je réalise é
 🔗 *https://rollyobiang.github.io/app-blog/index.html*  
 Blog avec catégories variées, images, descriptions et une interface épurée.
 
+---
+
+## 🌐 **Guide-de-entrepreneur (Vue.js)**
+🔗 *https://www.guideentrepreneur.ga/apropos
+Une plateforme dédier à des jeunes entrepreneurs souhaitant se lancer dans diverses secteurs d'activités.
 
 ---
 
