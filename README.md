@@ -11,7 +11,7 @@
 ## 👨‍💻 À propos de moi
 
 Développeur motivé et créatif, actuellement en dernière année de **BTS**, passionné par la création d'applications modernes, intuitives et centrées utilisateur.  
-Je me spécialise dans le **développement frontend (Vue.js)** et je réalise également des projets complets **full-stack** (Laravel, Flask, PHP, Flutter…).
+Je me spécialise dans le **développement frontend (React.js)** et je réalise également des projets complets **full-stack** (Laravel, Node, Nuxt, Flask, PHP, Flutter…).
 
 🎯 **Objectif carrière :** devenir **développeur frontend en entreprise**, avec une forte sensibilité UI/UX.
 
@@ -26,7 +26,7 @@ Je me spécialise dans le **développement frontend (Vue.js)** et je réalise é
 
 ### 🔹 Frameworks & Outils
 <p>
-  <img src="https://skillicons.dev/icons?i=vue,laravel,flask,flutter,wordpress,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=vue,laravel,flask,react,Nuxt,Node,flutter,wordpress,bootstrap,tailwind" />
 </p>
 
 ### 🔹 Bases de données
@@ -34,16 +34,12 @@ Je me spécialise dans le **développement frontend (Vue.js)** et je réalise é
 - PostgreSQL  
 - SQLite  
 - JSON
-
+- Néon Console
+- Firebase
+- MongoDB
 ---
 
 # 📂 Mes Projets Principaux
-
-## 📰 **App-Blog – Articles multicatégories**
-🔗 *https://rollyobiang.github.io/app-blog/index.html*  
-Blog avec catégories variées, images, descriptions et une interface épurée.
-
----
 
 ## 🌐 **Guide-de-entrepreneur (Vue.js)**
 🔗 *https://www.guideentrepreneur.ga
@@ -51,28 +47,21 @@ Une plateforme dédier à des jeunes entrepreneurs souhaitant se lancer dans div
 
 ---
 
-## 🌐 **Guide des Emplois — Plateforme Jeunes & Talents (Vue.js)**
-🔗 *https://rollyobiang.github.io/guide-emplois/index.html*  
-Application aidant les jeunes à trouver un emploi selon leurs compétences.  
-Design moderne, multiple pages, système de profils + Vue Router.
+## 🌐 **Pharmagab (React.js)**
+🔗 *https://pharmagab.vercel.app/*  
+Application web aidant les gabonais à trouver des pharmacies à proximiter  grace à leurs données via une connexion au système.  
+Design moderne, multiple pages, système de profils.
 
 ---
 
-## ⚠️ **Gestion des Incidents — Planning MS Project**
-🔗 *https://rollyobiang.github.io/gestion-incidents/dashbo*  
-Planification complète (tâches, ressources, chemin critique) + fichier XML importable.
-
+## 🌐 **Samba-voyage**
+🔗 *https://samba-voyage.vercel.app/*  
+Système de souscription d'assurances voyage et gestion de sinistres.
 ---
 
 ## 🛍️ **Boutique Mode Éthique — WordPress**
 🔗 *https://github.com/...*  
 Site WordPress moderne : fiches produits détaillées, lookbook, blog, valeurs éthiques et système de filtres avancés.
-
----
-
-## 🌱 **Conducteur Écologique — Application de sensibilisation**
-🔗 *https://rollyobiang.github.io/conducteur-ecologique/index.html*  
-App éducative sur la conduite écologique : conseils, émission CO₂, recommandations personnalisées.
 
 ---
 
